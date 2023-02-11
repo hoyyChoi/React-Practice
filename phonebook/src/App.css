@@ -1,0 +1,26 @@
+/* .create-form{
+  width: 400px;
+} */
+
+.active{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.search{
+  margin: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.add-book{
+  display: flex;
+  border: 1px solid black;
+  width: 350px;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 15px;
+}
